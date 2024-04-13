@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently **Student**
+- 🔭 I’m currently **Student**
  
- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
-💬 Aspiring Software Engineer seeking an **Internship**
+- 👨‍💻 All of my projects are available at [<<-Portpolio link comming soon->>]
 
-⚡ Know about my experiences <<--Resume link-->>
+- 📫 How to reach me **www.linkedin.com/in/anil-02k**
+
+- 📄 Know about my experiences [<<-Resume link comming soon->>]
 
  </div>
  
