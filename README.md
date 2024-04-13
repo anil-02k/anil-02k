@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anil-02k.anil-02k" />
+<img align="right" src="https://komarev.com/ghpvc/?username=anil-02k&label=Profile%20views&color=0e75b6&style=flat" alt="anil-02k" />
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Anil+Kumar+" alt="Typing SVG" /></a>
