@@ -14,11 +14,11 @@
  
  🌱 I’m currently learning **Backend Development**
 
-👨‍💻 All of my projects are available at [<<-Portpolio link comming soon->>]
+👨‍💻 All of my projects are available at **https://anil-02k.netlify.app/**
 
 📫 How to reach me **www.linkedin.com/in/anil-02k**
 
-📄 Know about my experiences [<<-Resume link comming soon->>]
+📄 Know about my experiences **https://drive.google.com/file/d/1QpY6I2R02iD8xcg-sl7QkID43bZ8UbKP/view?usp=sharing**
 
  </div>
  
