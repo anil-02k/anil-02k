@@ -36,12 +36,3 @@
 
 
 ---
-
-<h3 align="center">My Contributions</h3>
-
-
-<p align="center">
-  <img alt="GitHub Contributions Snake" src="https://raw.githubusercontent.com/anil-02k/anil-02k/output/github-contribution-grid-snake.svg" />
-</p>
-
----
