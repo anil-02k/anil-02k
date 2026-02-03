@@ -22,6 +22,11 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+
 <!-- Profile Summary Cards -->
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anil-02k&theme=github_dark)
