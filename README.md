@@ -22,9 +22,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
+
 
 
 <!-- Profile Summary Cards -->
@@ -35,7 +33,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anil-02k&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anil-02k&theme=github_dark)
 
-  
+<p align="center">
+  <img src="/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>  
 
 </div>
 
